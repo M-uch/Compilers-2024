@@ -1,0 +1,14 @@
+bin/
+build/
+.vscode
+*.o
+*.tab.hpp
+*.tab.cpp
+*.yy.cpp
+*.output
+*.gcno
+*.gcda
+coverage/
+*.d
+*.pyc
+branch/langproc-2023-cw-Bitwise/
